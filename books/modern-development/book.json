@@ -1,0 +1,18 @@
+{
+  "id": "modern-development",
+  "title": "The Art of Modern Development",
+  "author": "Dev Master",
+  "description": "A comprehensive guide to modern software development practices",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Introduction to Modern Development",
+      "pages": 3
+    },
+    {
+      "id": 2,
+      "title": "Clean Code Principles",
+      "pages": 3
+    }
+  ]
+}
