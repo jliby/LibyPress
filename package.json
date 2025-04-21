@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --no-lint",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "list": "node scripts/dev.js list",
@@ -27,7 +27,6 @@
     "fastmcp": "^1.20.5",
     "figlet": "^1.8.0",
     "framer-motion": "^12.7.4",
-    "framer-motion-3d": "^12.4.13",
     "fuse.js": "^7.0.0",
     "gradient-string": "^3.0.0",
     "helmet": "^8.1.0",
@@ -35,7 +34,7 @@
     "install": "^0.13.0",
     "jsonwebtoken": "^9.0.2",
     "lru-cache": "^10.2.0",
-    "next": "15.1.6",
+    "next": "^15.3.1",
     "npm": "^11.3.0",
     "openai": "^4.89.0",
     "ora": "^8.2.0",
@@ -56,10 +55,5 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   },
-  "type": "module",
-  "overrides": {
-    "framer-motion-3d": {
-      "@react-three/fiber": "^9.1.2"
-    }
-  }
+  "type": "module"
 }
