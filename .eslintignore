@@ -1,0 +1,16 @@
+# Build artifacts
+.next/
+out/
+build/
+dist/
+
+# Node modules
+node_modules/
+
+# Public assets
+public/
+
+# Test files
+**/*.test.js
+**/*.test.ts
+**/*.test.tsx 
