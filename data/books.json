@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "A BRIEF HISTORY OF TIME",
+    "subtitle": "FROM THE BIG BANG TO BLACK HOLES",
+    "author": "STEPHEN HAWKING",
+    "spineColor": "#1e3a8a",
+    "coverColor": "",
+    "pageColor": "#ffffff",
+    "textColor": "#ffffff",
+    "coverTexturePath": "/textures/StephenHawkings.png"
+  },
+  {
+    "id": "2",
+    "title": "SAPIENS",
+    "subtitle": "A BRIEF HISTORY OF HUMANKIND",
+    "author": "YUVAL NOAH HARARI",
+    "spineColor": "#b45309",
+    "coverColor": "",
+    "pageColor": "#fefce8",
+    "textColor": "#111827",
+    "coverTexturePath": "https://m.media-amazon.com/images/I/716E6dQ4BXL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "3",
+    "title": "THE SELFISH GENE",
+    "author": "RICHARD DAWKINS",
+    "spineColor": "#065f46",
+    "coverColor": "",
+    "pageColor": "#d1fae5",
+    "textColor": "#ffffff",
+    "coverTexturePath": "https://m.media-amazon.com/images/I/61dtRkUbfRL._AC_UF1000,1000_QL80_.jpg"
+  }
+] 

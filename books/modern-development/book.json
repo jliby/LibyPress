@@ -7,12 +7,38 @@
     {
       "id": 1,
       "title": "Introduction to Modern Development",
-      "pages": 3
+      "pages": [
+        {
+          "content": "chapters/1/pages/1.md",
+          "title": "Introduction",
+          "pageNumber": 1,
+          "chapterNumber": 1
+        },
+        {
+          "content": "chapters/1/pages/2.md",
+          "title": "The Foundation",
+          "pageNumber": 2,
+          "chapterNumber": 1
+        },
+        {
+          "content": "chapters/1/pages/3.md",
+          "title": "Modern Development Principles",
+          "pageNumber": 3,
+          "chapterNumber": 1
+        }
+      ]
     },
     {
       "id": 2,
       "title": "Clean Code Principles",
-      "pages": 3
+      "pages": [
+        {
+          "content": "chapters/2/pages/4.md",
+          "title": "Clean Code Principles",
+          "pageNumber": 4,
+          "chapterNumber": 2
+        }
+      ]
     }
   ]
 }

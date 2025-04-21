@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Add custom animation keyframes and utility class */
+@layer utilities {
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  .animate-gradient {
+    animation: gradient 6s linear infinite;
+  }
+
+  .bg-size-300 {
+    background-size: 300% 300%;
+  }
+}
+
+/* Add any other global styles below */
+body {
+  /* Example: add default font smoothing */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
